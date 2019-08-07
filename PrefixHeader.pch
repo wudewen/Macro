@@ -1,9 +1,9 @@
 //
 //  PrefixHeader.pch
-//  时尚购物
+//  宏定义
 //
-//  Created by 吴德文 on 16/10/11.
-//  Copyright © 2016年 XiangYuKeJi. All rights reserved.
+//  Created by wudewen on 16/10/11.
+//  Copyright © 2016年 Shanutec. All rights reserved.
 //
 
 #ifndef PrefixHeader_pch
